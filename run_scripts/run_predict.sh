@@ -1,0 +1,1 @@
+yolo detect predict model=yolo11n.pt source='https://ultralytics.com/images/bus.jpg'
